@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vatsala Gupta</h1>
 <h3 align="center">I am a passionate software engineer with expertise in problem-solving and algorithmic thinking. I love to explore various technologies and frameworks to develop efficient and scalable solutions. with a strong foundation in data structures and algorithms, I strive to robust and optimized code, I am constantly expanding my skills and staying up-to-date with the latest advancement in the field of software development.
-<. /h3>
+</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F56001279%2F169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif&tbnid=55jyr3BK5duBpM&vet=12ahUKEwikrbjTuYD_AhX01XMBHczqBEEQMygRegUIARCoAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2FShivamRathore07&docid=eLvGV34xvFZ9iM&w=800&h=600&q=animated%20gifs%20coding&hl=en&ved=2ahUKEwikrbjTuYD_AhX01XMBHczqBEEQMygRegUIARCoAg"
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalagupta&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalagupta" /> </p>

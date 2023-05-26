@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalagupta" alt="vatsalagupta" /></a> </p> -->
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 📫 How to reach me **vatsala00000gupta@gmail.com**
 

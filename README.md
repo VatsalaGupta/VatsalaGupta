@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-illustration%2Fbanner-about-programming-coding-course-260nw-1887006397.jpg&tbnid=Pzx8Xltjds5vzM&vet=12ahUKEwic8pqsuoD_AhUAA7cAHRevDfkQMygsegUIARDxAg..i&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-illustration%2Fbanner-about-programming-coding-course-neural-1887006397&docid=y9ynj1AOvhaDSM&w=462&h=280&q=banner%20gif%20images%20coding&ved=2ahUKEwic8pqsuoD_AhUAA7cAHRevDfkQMygsegUIARDxAg)](https://github.com/VatsalaGupta) -->
 
 <h1 align="center">Hi 👋, I'm Vatsala Gupta</h1>
-<h2 align="center">I'm passionate about Problem Solving and MEAN Stack Development from India </h2>
+<h2 align="center">I'm passionate about Problem Solving and MERN Stack Development from India </h2>
 <h3 align="center">I am a passionate software engineer with expertise in problem-solving and algorithmic thinking. I love to explore various technologies and frameworks to develop efficient and scalable solutions. With a strong foundation in data structures and algorithms, I strive to write robust and optimized code. I am constantly expanding my skills and staying up-to-date with the latest advancements in the field of software development.
 </h3>
 
